@@ -1,4 +1,7 @@
+**NOTE** This fork is as-is hosted with [CloudFlare Pages](https://pages.cloudflare.com/) at [msportals.offsec.nl](https://msportals.offsec.nl/).
+
 ![Validate Portal JSONs](https://github.com/adamfowlerit/msportals.io/workflows/Validate%20Portal%20JSONs/badge.svg)
+
 # msportals.io - Microsoft Portals #
 
 Microsoft has a **lot** of portals.
