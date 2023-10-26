@@ -54,6 +54,10 @@
         "primaryURL": "https://m365internals.com"
       },
       {
+        "portalName": "IntuneMaps",
+        "primaryURL": "https://intunemaps.com/"
+      },
+      {
         "portalName": "KQL Search",
         "primaryURL": "https://www.kqlsearch.com/"
       },
@@ -90,10 +94,6 @@
       {
         "portalName": "Microsoft365DSC",
         "primaryURL": "https://microsoft365dsc.com/"
-      },
-      {
-        "portalName": "MileIQ Admin Center",
-        "primaryURL": "https://admin.mileiq.com"
       },
       {
         "portalName": "MSShells.net PowerShell modules for Microsoft 365 / Azure",

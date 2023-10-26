@@ -47,10 +47,6 @@
         "primaryURL": "https://loop.microsoft.com"
       },
       {
-        "portalName": "MileIQ",
-        "primaryURL": "https://dashboard.mileiq.com"
-      },
-      {
         "portalName": "OneDrive",
         "primaryURL": "https://portal.office.com/onedrive"
       },
@@ -181,6 +177,11 @@
             "url": "https://aka.ms/createAppPassword"
           }
         ]
+      },
+      {
+        "portalName": "Bing Chat Enterprise",
+        "primaryURL": "https://www.bing.com/chat",
+        "note": "Consumer URL is the same, look for Protected logo"
       },
       {
         "portalName": "Bing Image Creator",
