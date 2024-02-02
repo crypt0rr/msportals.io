@@ -1,5 +1,33 @@
 [
   {
+    "groupName": "Main Training Links",
+    "portals": [
+      {
+        "portalName": "Microsoft Applied Skills",
+        "primaryURL": "https://learn.microsoft.com/en-us/credentials/browse/?credential_types=applied%20skills"
+      }
+    ]
+    },
+    {
+    "groupName": "Main Certification Links",
+    "portals": [
+      {
+        "portalName": "Microsoft Certifications",
+        "primaryURL": "https://learn.microsoft.com/en-us/credentials/browse/?credential_types=certification"
+      },
+      {
+        "portalName": "Certification Poster - Become Microsoft Certified",
+        "primaryURL": "https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI"
+        "secondaryURLs": [
+          {
+            "icon": "aka.ms",
+            "url": "https://aka.ms/CertificationsPoster"
+          }
+        ]
+      }
+    ]
+    },
+  {
     "groupName": "Azure Training",
     "portals": [
       {
