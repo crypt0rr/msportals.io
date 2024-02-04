@@ -18,15 +18,9 @@
       {
         "portalName": "Certification Poster - Become Microsoft Certified",
         "primaryURL": "https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI"
-        "secondaryURLs": [
-          {
-            "icon": "aka.ms",
-            "url": "https://aka.ms/CertificationsPoster"
-          }
-        ]
       }
     ]
-    },
+   }, 
   {
     "groupName": "Azure Training",
     "portals": [
@@ -35,8 +29,8 @@
         "primaryURL": "https://msportals.io/"
       },
       {
-        "portalName": "Where's My Tenant ?",
-        "primaryURL": "https://gettenantpartitionweb.azurewebsites.net/"
+        "portalName": "📌 Microsoft Portals",
+        "primaryURL": "https://msportals.io/"
       }
     ]
     },
@@ -47,9 +41,9 @@
         "portalName": "📌 Microsoft Portals",
         "primaryURL": "https://msportals.io/"
       },
-      {
-        "portalName": "Where's My Tenant ?",
-        "primaryURL": "https://gettenantpartitionweb.azurewebsites.net/"
+            {
+        "portalName": "📌 Microsoft Portals",
+        "primaryURL": "https://msportals.io/"
       }
     ]
   }
