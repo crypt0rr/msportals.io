@@ -5,6 +5,14 @@
       {
         "portalName": "Microsoft Applied Skills",
         "primaryURL": "https://learn.microsoft.com/en-us/credentials/browse/?credential_types=applied%20skills"
+      },
+      {
+        "portalName": "Microsoft Learn Blog",
+        "primaryURL": "https://techcommunity.microsoft.com/t5/microsoft-learn-blog/bg-p/MicrosoftLearnBlog"
+      },
+      {
+        "portalName": "Microsoft Virtual Training Days",
+        "primaryURL": "https://www.microsoft.com/en-ca/sites/microsoft-training-days"
       }
     ]
     },
@@ -17,34 +25,208 @@
       },
       {
         "portalName": "Certification Poster - Become Microsoft Certified",
-        "primaryURL": "https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI"
+        "primaryURL": "https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI",
+        "secondaryURLs": [
+          {
+            "icon": "aka.ms",
+            "url": "https://aka.ms/CertificationsPoster"
+          }
+        ]
+      },
+      {
+        "portalName": "Exam Readiness Zone",
+        "primaryURL": "https://learn.microsoft.com/en-us/shows/exam-readiness-zone/"
       }
     ]
    }, 
   {
-    "groupName": "Azure Training",
+    "groupName": "Infrastructure Certifications",
     "portals": [
       {
-        "portalName": "📌 Microsoft Portals",
-        "primaryURL": "https://msportals.io/"
+        "portalName": "AZ-900 Azure Fundamentals Exam",
+        "primaryURL": "https://learn.microsoft.com/en-us/credentials/certifications/exams/az-900/",
+        "note": "Microsoft Certified: Azure Fundamentals"
       },
+       {
+        "portalName": "AZ-900 Azure Fundamentals Course",
+        "primaryURL": "https://learn.microsoft.com/en-us/training/courses/az-900t00"
+      },
+       {
+        "portalName": "AZ-104 Azure Administrator Associate Exam",
+        "primaryURL": "https://learn.microsoft.com/en-us/training/courses/az-900t00",
+        "note": "Microsoft Certified: Azure Administrator Associate"
+      }
+    ]
+    },
+    {
+    "groupName": "Data and AI Certifications",
+    "portals": [
       {
-        "portalName": "📌 Microsoft Portals",
+        "portalName": "Exam Links TBD",
         "primaryURL": "https://msportals.io/"
       }
     ]
     },
     {
-    "groupName": "Microsoft 365 Training",
+    "groupName": "Digital app and innovation Certifcations",
     "portals": [
       {
-        "portalName": "📌 Microsoft Portals",
-        "primaryURL": "https://msportals.io/"
-      },
-            {
-        "portalName": "📌 Microsoft Portals",
+        "portalName": "Exam Links TBD",
         "primaryURL": "https://msportals.io/"
       }
+    ]
+    },
+    {
+    "groupName": "Modern Work Certifications",
+    "portals": [
+            {
+        "portalName": "Exam Links TBD",
+        "primaryURL": "https://msportals.io/"
+      }
+    ]
+    },
+    {
+    "groupName": "Business Applications Certifications",
+    "portals": [
+            {
+        "portalName": "Exam Links TBD",
+        "primaryURL": "https://msportals.io/"
+      }
+    ]
+    },
+    {
+    "groupName": "Microsoft Security Training",
+    "portals": [
+      {
+        "portalName": "Microsoft Security, Compliance, and Identity training and certifications PowerPoint Deck",
+        "primaryURL": "https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4J4Mm",
+        "secondaryURLs": [
+          {
+            "icon": "aka.ms",
+            "url": "https://aka.ms/SecurityTrainCertDeck"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "groupName": "Microsoft Ninja Training",
+    "portals": [
+      {
+        "portalName": "Microsoft Azure Network Security Ninja",
+        "primaryURL": "http://aka.ms/aznetsecninja"
+      },      
+      {
+        "portalName": "Microsoft Purview Compliance Manager Ninja",
+        "primaryURL": "thttp://aka.ms/compliancemanagerninja"
+      },
+      {
+        "portalName": "Microsoft Purview Communication Compliance Ninja",
+        "primaryURL": "https://aka.ms/communicationcomplianceninja"
+      },
+      {
+        "portalName": "Microsoft Purview eDiscovery Ninja",
+        "primaryURL": "https://aka.ms/ediscoveryninja"
+      },
+      {
+        "portalName": "Microsoft Purview Information Protection Ninja",
+        "primaryURL": "https://aka.ms/MIPNinja"
+      },
+      {
+        "portalName": "Microsoft Purview Data Loss Prevention Ninja",
+        "primaryURL": "https://aka.ms/DLPNinja"
+      },
+      {
+        "portalName": "Microsoft Purview Insider Risk Management Ninja",
+        "primaryURL": "https://aka.ms/insiderriskninja"
+      },
+      {
+        "portalName": "Microsoft 365 Defender Ninja",
+        "primaryURL": "https://aka.ms/m365dninja"
+      },
+      {
+        "portalName": "Microsoft 365 Defender for Cloud Ninja",
+        "primaryURL": "http://aka.ms/ascninja"
+      },
+      {
+        "portalName": "Microsoft 365 Defender for IoT Ninja",
+        "primaryURL": "https://aka.ms/d4iotninja"
+      },
+      {
+        "portalName": "Microsoft Defender for Cloud Apps Ninja",
+        "primaryURL": "http://aka.ms/mcasninja"
+      },
+      {
+        "portalName": "Microsoft Defender for Endpoint Ninja",
+        "primaryURL": "https://aka.ms/mdeninja"
+      },
+      {
+        "portalName": "Microsoft Defender for Identity Ninja",
+        "primaryURL": "https://aka.ms/MDINinja"
+      },
+            {
+        "portalName": "Microsoft Defender for Office 365 Ninja",
+        "primaryURL": "https://aka.ms/MDONinja"
+      },
+
+      {
+        "portalName": "Microsoft Defender Threat Intelligence Ninja",
+        "primaryURL": "https://techcommunity.microsoft.com/t5/microsoft-defender-threat/become-a-microsoft-defender-threat-intelligence-ninja-the/ba-p/3656965"
+      },
+      {
+        "portalName": "Microsoft Sentinel Ninja",
+        "primaryURL": "https://aka.ms/sentinelninja"
+      },
+      {
+        "portalName": "Microsoft Sentinel for MSSP Ninja",
+        "primaryURL": "http://aka.ms/azsentinelmssp"
+      },
+      {
+        "portalName": "Microsoft Sentinel Notebooks Ninja",
+        "primaryURL": "https://aka.ms/MDONinja"
+      },
+      {
+        "portalName": "Microsoft Sentinel Automation Ninja",
+        "primaryURL": "https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/become-a-microsoft-sentinel-automation-ninja/ba-p/3563377"
+      },
+      {
+        "portalName": "Ninja Show",
+        "primaryURL": "https://aka.ms/NinjaShow"
+      }
+    ]
+    },
+  {
+    "groupName": "Other Training Resources (including third party)",
+    "portals": [
+      {
+        "portalName": "Microsoft Exam Updates",
+        "primaryURL": "https://intunedin.net/",
+         "note": "Mark O'Shea Microsoft MVP"
+         },
+         {
+        "portalName": "John Savill's Technical Training",
+        "primaryURL": "https://www.youtube.com/channel/UCpIn7ox7j7bH_OFj7tYouOQ",
+         "note": "YouTube Exam Study"
+         },
+         {
+        "portalName": "Microsoft Mechanics",
+        "primaryURL": "https://www.youtube.com/@MSFTMechanics",
+         "note": "Microsoft run engineering updates"
+         },
+        {
+        "portalName": "Intune Training",
+        "primaryURL": "https://www.youtube.com/@IntuneTraining",
+        },
+        {
+        "portalName": "Microsoft Security Community",
+        "primaryURL": "https://www.youtube.com/@MicrosoftSecurityCommunity",
+        "note": "Microsoft run security content"
+        },
+        {
+        "portalName": "ITOpsTalk",
+        "primaryURL": "https://www.youtube.com/@ITOpsTalk",
+         "note": "Microsoft run ITOPSTalk TechCommunity Blog"
+         }
     ]
   }
 ]
