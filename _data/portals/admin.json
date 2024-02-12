@@ -906,6 +906,10 @@
         "portalName": "Microsoft Adoption",
         "primaryURL": "https://adoption.microsoft.com/"
       },
+      {    
+        "portalName": "Microsoft Assessments",
+        "primaryURL": "https://learn.microsoft.com/en-gb/assessments/"
+      },
       {
         "portalName": "Microsoft Azure Sponsorships",
         "primaryURL": "https://www.microsoftazuresponsorships.com"
@@ -1005,6 +1009,10 @@
         "primaryURL": "https://servicetrust.microsoft.com"
       },
       {
+        "portalName": "Azure Active Directory - Where is your data located?",
+        "primaryURL": "https://msit.powerbi.com/view?r=eyJrIjoiODdjOWViZDctMWRhZS00ODUzLWI4MmQtNWM5NjBkZTBkNjFlIiwidCI6IjcyZjk4OGJmLTg2ZjEtNDFhZi05MWFiLTJkN2NkMDExZGI0NyIsImMiOjV9"
+      },
+      {
         "portalName": "Tech Community Video Hub",
         "primaryURL": "https://techcommunity.microsoft.com/t5/video-hub/ct-p/VideoHub",
         "secondaryURLs": [
@@ -1043,13 +1051,19 @@
         "primaryURL": "https://unlocked.microsoft.com/"
       },
       {
-        "portalName": "ExpertZone",
-        "primaryURL": "https://expertzone.microsoft.com/",
-        "note": "Training"
+        "portalName": "Get Security Done",
+        "primaryURL": "https://dcaddick.github.io/gsd_public/",
+        "note": "Dave Caddick",
+        "secondaryURLs": [
+          {
+            "icon": "aka.ms",
+            "url": "https://aka.ms/GSD"
+          }
+        ]
       },
       {
         "portalName": "Windows 365 Subscription URL",
-        "primaryURL": "https://rdweb.wvd.microsoft.com/api/arm/feeddiscovery"
+        "primaryURL": "https://rdweb.wvd.microsoft.com"
       }
     ]
   }
