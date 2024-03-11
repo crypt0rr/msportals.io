@@ -41,7 +41,13 @@
       {
         "portalName": "Microsoft Purview",
         "primaryURL": "https://compliance.microsoft.com",
-        "note": "Microsoft 365 Compliance"
+        "note": "Microsoft 365 Compliance",
+        "secondaryURLs": [
+          {
+            "icon": "B2B",
+            "url": "https://compliance.microsoft.com/homepage?tid={tenant_id}"
+          }
+        ]
       },
       {
         "portalName": "Microsoft 365 network connectivity test",
@@ -142,14 +148,6 @@
             "url": "https://aka.ms/mystaff"
           }
         ]
-      },
-      {
-        "portalName": "Non Profit Admin Center",
-        "primaryURL": "https://nonprofit.microsoft.com/"
-      },
-      {
-        "portalName": "OneDrive Admin Center",
-        "primaryURL": "https://admin.onedrive.com"
       },
       {
         "portalName": "Power Apps ISV Studio",
@@ -271,8 +269,12 @@
           {
             "icon": "aka.ms",
             "url": "https://aka.ms/MSEntraPortal"
+          },
+          {
+            "icon": "B2B",
+            "url": "https://entra.microsoft.com/{tenant_id}/#home"
           }
-        ] 
+        ]
       },
       {
         "portalName": "Create New Tenant / Azure Active Directory",
@@ -296,7 +298,7 @@
       },
       {
         "portalName": "Azure Non-profit Portal",
-        "primaryURL": "https://nonprofit.microsoft.com/#/ngoportal"
+        "primaryURL": "https://nonprofit.microsoft.com"
       },
       {
         "portalName": "Azure Resource Explorer",
@@ -345,7 +347,7 @@
       }
     ]
   },
-   {
+  {
     "groupName": "Azure AI / ML Portals",
     "portals": [
       {
@@ -461,7 +463,7 @@
       {
         "portalName": "Microsoft Defender Threat Intelligence",
         "primaryURL": "https://ti.defender.microsoft.com/"
-      },      
+      },
       {
         "portalName": "Microsoft 365 Defender",
         "primaryURL": "https://security.microsoft.com",
@@ -561,6 +563,10 @@
         "note": "Deprecated"
       },
       {
+        "portalName": "Entra ID Error Code Lookup",
+        "primaryURL": "https://login.microsoftonline.com/error"
+      },
+      {
         "portalName": "Report an unsafe site (login)",
         "primaryURL": "https://www.microsoft.com/en-us/wdsi/support/report-unsafe-site"
       },
@@ -580,7 +586,7 @@
         "portalName": "Reporting Infringement or DCMA Notice to Microsoft",
         "primaryURL": "https://www.microsoft.com/en-us/legal/intellectualproperty/infringement"
       },
-       {
+      {
         "portalName": "Reporting Issue with Bingbot",
         "primaryURL": "https://www.microsoft.com/en-us/legal/intellectualproperty/infringement"
       },
@@ -684,10 +690,6 @@
         "note": "Insiders Version"
       },
       {
-        "portalName": "Microsoft Online Error Code Lookup",
-        "primaryURL": "https://login.microsoftonline.com/error"
-      },
-      {
         "portalName": "Microsoft AppSource",
         "primaryURL": "https://appsource.microsoft.com/"
       },
@@ -722,8 +724,14 @@
     "portals": [
       {
         "portalName": "Microsoft Service health status",
-        "primaryURL": "https://status.office.com/",
-        "note": "Microsoft 365, Azure, Power Platform"
+        "primaryURL": "https://status.cloud.microsoft",
+        "note": "Microsoft 365, Azure, Power Platform",
+        "secondaryURLs": [
+           {
+            "icon": "Old 🔗",
+            "url": " https://status.office.com/"
+          }
+        ]
       },
       {
         "portalName": "Microsoft 365 Service health status",
@@ -831,7 +839,7 @@
       {
         "portalName": "Microsoft 365 Business Premium Trial, 1 Month",
         "primaryURL": "https://signup.microsoft.com/get-started/signup?products=53e11149-82f9-4bca-a7f2-8f72592e4f03&mproducts=CFQ7TTC0LCHC:0003&fmproducts=CFQ7TTC0LCHC:0003&culture=en-in&country=in&ali=1"
-      },      
+      },
       {
         "portalName": "Sign-up for Azure $200 US Credits in 3 months, 12 months free services trial",
         "primaryURL": "https://azure.microsoft.com/en-us/offers/ms-azr-0044p/"
@@ -906,7 +914,7 @@
         "portalName": "Microsoft Adoption",
         "primaryURL": "https://adoption.microsoft.com/"
       },
-      {    
+      {
         "portalName": "Microsoft Assessments",
         "primaryURL": "https://learn.microsoft.com/en-gb/assessments/"
       },

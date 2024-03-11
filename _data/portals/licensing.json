@@ -10,14 +10,22 @@
         "portalName": "Microsoft 365 Business Licensing Full Comparison Table PDF",
         "primaryURL": "https://aka.ms/M365BusinessPlans"
          },
+        {
+        "portalName": "Microsoft 365 Compliance Licensing Comparison Table PDF",
+        "primaryURL": "https://learn.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.pdf"
+         },
             {
         "portalName": "Compare Microsoft 365 Business Plans",
-        "primaryURL": "https://www.microsoft.com/en-au/microsoft-365/business/compare-all-microsoft-365-business-products"
+        "primaryURL": "https://www.microsoft.com/microsoft-365/business/compare-all-microsoft-365-business-products"
          },
         {
         "portalName": "Licensing Resources and Documents - Product Terms",
         "primaryURL": "https://www.microsoft.com/licensing/docs/view/Product-Terms"
          },
+        {
+        "portalName": "Product names and service plan identifiers for licensing (SKU List)",
+        "primaryURL": "https://learn.microsoft.com/entra/identity/users/licensing-service-plan-reference"
+        },
         {
         "portalName": "Microsoft 365 Admin Center - Licensing",
         "primaryURL": "https://admin.microsoft.com/?&source=applauncher#/licenses"
@@ -34,15 +42,15 @@
     "portals": [
         {
         "portalName": "Azure Pricing Calculator",
-        "primaryURL": "https://azure.microsoft.com/en-us/pricing/calculator/"
+        "primaryURL": "https://azure.microsoft.com/pricing/calculator/"
          },
         {
         "portalName": "Azure Pricing by Product",
-        "primaryURL": "https://azure.microsoft.com/en-us/pricing/#product-pricing"
+        "primaryURL": "https://azure.microsoft.com/pricing/#product-pricing"
          },
         {
         "portalName": "Azure Hybrid Benefit Savings Calculator",
-        "primaryURL": "https://azure.microsoft.com/en-us/pricing/hybrid-benefit/#calculator"
+        "primaryURL": "https://azure.microsoft.com/pricing/hybrid-benefit/#calculator"
          }
        ]
   },
@@ -52,11 +60,11 @@
     "portals": [
         {
         "portalName": "Microsoft 365 Family",
-        "primaryURL": "https://www.microsoft.com/en-au/microsoft-365/p/microsoft-365-family/cfq7ttc0k5dm"
+        "primaryURL": "https://www.microsoft.com/microsoft-365/p/microsoft-365-family/cfq7ttc0k5dm"
          },
         {
         "portalName": "Microsoft 365 Personal",
-        "primaryURL": "https://www.microsoft.com/en-au/microsoft-365/p/microsoft-365-personal/cfq7ttc0k5bf"
+        "primaryURL": "https://www.microsoft.com/microsoft-365/p/microsoft-365-personal/cfq7ttc0k5bf"
          }
        ]
   },
@@ -65,15 +73,15 @@
     "portals": [
         {
         "portalName": "Microsoft Entra Plans & Pricing",
-        "primaryURL": "https://www.microsoft.com/en-au/security/business/microsoft-entra-pricing"
+        "primaryURL": "https://www.microsoft.com/security/business/microsoft-entra-pricing"
          },
         {
         "portalName": "Microsoft Project Plans & Pricing",
-        "primaryURL": "https://www.microsoft.com/en-au/microsoft-365/project/compare-microsoft-project-management-software"
+        "primaryURL": "https://www.microsoft.com/microsoft-365/project/compare-microsoft-project-management-software"
          },
         {
         "portalName": "Microsoft Visio Plans & Pricing",
-        "primaryURL": "https://www.microsoft.com/en-au/microsoft-365/visio/microsoft-visio-plans-and-pricing-compare-visio-options"
+        "primaryURL": "https://www.microsoft.com/microsoft-365/visio/microsoft-visio-plans-and-pricing-compare-visio-options"
          }
     ]
   }
