@@ -78,7 +78,13 @@
       },
       {
         "portalName": "Power Automate",
-        "primaryURL": "https://flow.microsoft.com"
+        "primaryURL": "https://make.powerautomate.com/",
+         "secondaryURLs": [
+           {
+            "icon": "Old 🔗",
+            "url": "https://flow.microsoft.com"
+          }
+        ]
       },
       {
         "portalName": "Power BI",
@@ -115,7 +121,7 @@
         "secondaryURLs": [
            {
             "icon": "Old 🔗",
-            "url": " https://www.office.com/launch/sway"
+            "url": "https://www.office.com/launch/sway"
           }
         ]
       },

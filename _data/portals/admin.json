@@ -308,6 +308,10 @@
         "portalName": "Azure Resource Explorer",
         "primaryURL": "https://resources.azure.com/raw",
         "note": "Raw"
+      },
+      {
+        "portalName": "Typespec Azure API playground (Explorer)",
+        "primaryURL": "https://azure.github.io/typespec-azure/playground"
       }
     ]
   },
@@ -909,6 +913,10 @@
       {
         "portalName": "Fast Cloud File Migrations",
         "primaryURL": "https://mover.io/"
+      },
+      {
+        "portalName": "Microsoft 365 Message Center Archive",
+        "primaryURL": "https://mc.merill.net/"
       },
       {
         "portalName": "Microsoft Adoption",
