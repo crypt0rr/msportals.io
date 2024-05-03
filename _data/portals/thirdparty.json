@@ -3,10 +3,6 @@
     "groupName": "Non-Microsoft Owned 3rd Party Portals",
     "portals": [
       {
-        "portalName": "📌 Microsoft Portals",
-        "primaryURL": "https://msportals.io/"
-      },
-      {
         "portalName": "[cmd.ms]",
         "primaryURL": "https://cmd.ms"
       },
@@ -40,11 +36,22 @@
       },
       {
         "portalName": "Conditional Access Documenter - idPowerToys",
-        "primaryURL": "https://idpowertoys.com/ca"
+        "primaryURL": "https://idpowertoys.merill.net/ca"
       },
       {
         "portalName": "Defender for Endpoint Blog and KQL-Tools",
         "primaryURL": "https://m365internals.com"
+      },
+      {
+        "portalName": "Get Security Done",
+        "primaryURL": "https://dcaddick.github.io/gsd_public/",
+        "note": "Dave Caddick",
+        "secondaryURLs": [
+          {
+            "icon": "aka.ms",
+            "url": "https://aka.ms/GSD"
+          }
+        ]
       },
       {
         "portalName": "IntuneMaps",
@@ -63,11 +70,7 @@
         "primaryURL": "https://mha.azurewebsites.net"
       },
       {
-        "portalName": "Microsoft Acronyms Glossary",
-        "primaryURL": "https://tpm.ms/TLA"
-      },
-      {
-        "portalName": "Microsoft 365 Licensing Diagrams",
+        "portalName": "Microsoft 365 Maps - Licensing Diagrams",
         "primaryURL": "https://m365maps.com/",
         "secondaryURLs": [
           {
@@ -77,12 +80,25 @@
         ]
       },
       {
+        "portalName": "Microsoft Acronyms Glossary",
+        "primaryURL": "https://tpm.ms/TLA"
+      },
+      {
         "portalName": "Microsoft Mac Downloads",
         "primaryURL": "https://macadmins.software/"
       },
       {
+        "portalName": "Microsoft Portals",
+        "primaryURL": "https://msportals.io/",
+        "note": "You're already here"
+      },
+      {
         "portalName": "Microsoft Token Analysis Tool",
         "primaryURL": "https://jwt.ms/"
+      },
+      {
+        "portalName": "Microsoft WDAC Wizard",
+        "primaryURL": "https://webapp-wdac-wizard.azurewebsites.net/"
       },
       {
         "portalName": "Microsoft365DSC",
@@ -131,5 +147,15 @@
         "primaryURL": "https://gettenantpartitionweb.azurewebsites.net/"
       }
     ]
-  }
+  },
+    {
+    "groupName": "Non-Microsoft Owned 3rd Party Scripts",
+    "portals": [
+            {
+        "portalName": "M365PSProfile",
+        "primaryURL": "https://www.powershellgallery.com/packages/M365PSProfile/0.5.0",
+        "note": "Updates all M365 PowerShell Modues"
+      }
+     ]
+    }
 ]
