@@ -2,9 +2,9 @@
   {
     "groupName": "Microsoft 365 Admin Portals",
     "portals": [
-      {
+     {
         "portalName": "Microsoft 365 Admin Center",
-        "primaryURL": "https://admin.microsoft.com",
+        "primaryURL": "https://admin.cloud.microsoft",
         "secondaryURLs": [
           {
             "icon": "aka.ms",
@@ -12,6 +12,10 @@
           },
           {
             "icon": "Old 🔗",
+            "url": "https://admin.microsoft.com"
+          },
+          {
+            "icon": "Alt",
             "url": "https://portal.office365.com"
           },
           {
@@ -19,6 +23,7 @@
             "url": "https://portal.microsoft.com"
           }
         ]
+        
       },
       {
         "portalName": "Microsoft 365 Apps Admin Center",
@@ -1023,6 +1028,10 @@
       "primaryURL": "https://www.microsoft.com/startups"
     },
     {
+      "portalName": "Microsoft for Startups Founders Hub",
+      "primaryURL": "https://foundershub.startups.microsoft.com/"
+    },
+    {
       "portalName": "Microsoft Training",
       "primaryURL": "https://learn.microsoft.com/training/"
     },
@@ -1076,19 +1085,7 @@
     },
     {
       "portalName": "Windows 365 Subscription URL",
-      "primaryURL": "https://rdweb.wvd.microsoft.com"
-    },
-    {
-      "portalName": "Windows Virtual Desktop Consent Page",
-      "primaryURL": "https://rdweb.wvd.microsoft.com"
-    },
-    {
-      "portalName": "Microsoft for Startups Founders Hub",
-      "primaryURL": "https://foundershub.startups.microsoft.com/"
-    },
-    {
-      "portalName": "Windows 365 Subscription URL",
-      "primaryURL": "https://rdweb.wvd.microsoft.com"
+      "primaryURL": "https://windows365.microsoft.com"
     },
     {
       "portalName": "Windows Virtual Desktop Consent Page",
