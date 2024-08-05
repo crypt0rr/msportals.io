@@ -389,6 +389,33 @@
     ]
    },
   {
+    "groupName": "Data and AI - Microsoft Certified: Power BI Data Analyst Associate",
+    "portals": [
+       {
+        "portalName": "Microsoft Certified: Power BI Data Analyst Associate",
+        "primaryURL": "https://learn.microsoft.com/credentials/certifications/power-bi-data-analyst-associate/"
+      },
+      {
+        "portalName": "PL-300: Microsoft Power BI Data Analyst Exam",
+        "primaryURL": "https://learn.microsoft.com/credentials/certifications/exams/pl-300/"
+      },
+      {
+        "portalName": "PL-300 Study Guide",
+        "primaryURL": "https://learn.microsoft.com/credentials/certifications/resources/study-guides/pl-300",
+	      "secondaryURLs": [
+          {
+            "icon": "aka.ms",
+            "url": "https://aka.ms/pl300-StudyGuide"
+          }
+        ]
+      },
+        {
+        "portalName": "PL-300: Microsoft Power BI Data Analyst Course",
+        "primaryURL": "https://learn.microsoft.com/training/courses/pl-300t00"
+      }
+    ]
+   },
+  {
     "groupName": "Data and AI - Microsoft Certified: Azure Data Fundamentals",
     "portals": [
        {
@@ -494,36 +521,6 @@
         {
         "portalName": "DP-300: Administering Microsoft Azure SQL Solutions Course",
         "primaryURL": "https://learn.microsoft.com/training/courses/dp-300t00"
-      }
-    ]
-   },
-{
-    "groupName": "Data and AI - Microsoft Certified: Azure Enterprise Data Analyst Associate (RETIRING)",
-    "portals": [
-       {
-        "portalName": "Microsoft Certified: Azure Enterprise Data Analyst Associate",
-        "primaryURL": "https://learn.microsoft.com/credentials/certifications/azure-enterprise-data-analyst-associate",
-         "note": "Retiring April 30, 2024"
-      },
-      {
-        "portalName": "DP-500: Designing and Implementing Enterprise-Scale Analytics Solutions Using Microsoft Azure and Microsoft Power BI exam",
-        "primaryURL": "https://learn.microsoft.com/credentials/certifications/exams/dp-500/",
-        "note": "Retiring April 30, 2024"
-      },
-      {
-        "portalName": "DP-500 Study Guide",
-        "primaryURL": "https://learn.microsoft.com/credentials/certifications/resources/study-guides/dp-500",
-      	"secondaryURLs": [
-          {
-            "icon": "aka.ms",
-            "url": "https://aka.ms/dp500-StudyGuide"
-          }
-        ]
-      },
-        {
-        "portalName": "DP-500: Designing and Implementing Enterprise-Scale Analytics Solutions Using Microsoft Azure and Microsoft Power BI Course",
-        "primaryURL": "https://learn.microsoft.com/training/courses/dp-500t00",
-        "note": "Retiring April 30, 2024"
       }
     ]
    },
@@ -799,33 +796,6 @@
     ]
    },
   {
-    "groupName": "Business Applications - Microsoft Certified: Power Platform App Maker Associate",
-    "portals": [
-       {
-        "portalName": "Microsoft Certified: Power Platform App Maker Associate",
-        "primaryURL": "https://learn.microsoft.com/credentials/certifications/power-platform-app-maker/"
-      },
-      {
-        "portalName": "PL-100: Microsoft Power Platform App Make Exam",
-        "primaryURL": "https://learn.microsoft.com/credentials/certifications/exams/pl-100/"
-      },
-      {
-        "portalName": "PL-100 Study Guide",
-        "primaryURL": "https://learn.microsoft.com/credentials/certifications/resources/study-guides/pl-100",
-      	"secondaryURLs": [
-          {
-            "icon": "aka.ms",
-            "url": "https://aka.ms/pl100-StudyGuide"
-          }
-        ]
-      },
-        {
-        "portalName": "PL-100: Microsoft Power Platform App Make Course",
-        "primaryURL": "https://learn.microsoft.com/training/courses/pl-100t00"
-      }
-    ]
-   },
-  {
     "groupName": "Business Applications - Microsoft Certified: Power Platform Functional Consultant Associate",
     "portals": [
        {
@@ -849,33 +819,6 @@
         {
         "portalName": "PL-200: Microsoft Power Platform Functional Consultant Course",
         "primaryURL": "https://learn.microsoft.com/training/courses/pl-200t00"
-      }
-    ]
-   },
-  {
-    "groupName": "Business Applications - Microsoft Certified: Power BI Data Analyst Associate",
-    "portals": [
-       {
-        "portalName": "Microsoft Certified: Power BI Data Analyst Associate",
-        "primaryURL": "https://learn.microsoft.com/credentials/certifications/power-bi-data-analyst-associate/"
-      },
-      {
-        "portalName": "PL-300: Microsoft Power BI Data Analyst Exam",
-        "primaryURL": "https://learn.microsoft.com/credentials/certifications/exams/pl-300/"
-      },
-      {
-        "portalName": "PL-300 Study Guide",
-        "primaryURL": "https://learn.microsoft.com/credentials/certifications/resources/study-guides/pl-300",
-	      "secondaryURLs": [
-          {
-            "icon": "aka.ms",
-            "url": "https://aka.ms/pl300-StudyGuide"
-          }
-        ]
-      },
-        {
-        "portalName": "PL-300: Microsoft Power BI Data Analyst Course",
-        "primaryURL": "https://learn.microsoft.com/training/courses/pl-300t00"
       }
     ]
    },
@@ -1019,11 +962,13 @@
     "portals": [
        {
         "portalName": "Microsoft Certified: Dynamics 365 Sales Functional Consultant Associate",
-        "primaryURL": "https://learn.microsoft.com/credentials/certifications/d365-functional-consultant-sales/"
+        "primaryURL": "https://learn.microsoft.com/credentials/certifications/d365-functional-consultant-sales/",
+	"note": "Retiring November 30, 2024"
       },
       {
         "portalName": "MB-210: Microsoft Dynamics 365 Sales Functional Consultant Exam",
-        "primaryURL": "https://learn.microsoft.com/credentials/certifications/exams/mb-210/"
+        "primaryURL": "https://learn.microsoft.com/credentials/certifications/exams/mb-210/",
+	"note": "Retiring November 30, 2024"
       },
       {
         "portalName": "MB-210 Study Guide",
@@ -1037,7 +982,8 @@
       },
         {
         "portalName": "MB-210: Microsoft Dynamics 365 Sales Functional Consultant Course",
-        "primaryURL": "https://learn.microsoft.com/training/courses/mb-210t00"
+        "primaryURL": "https://learn.microsoft.com/training/courses/mb-210t00",
+	"note": "Retiring November 30, 2024"
       }
     ]
    },
@@ -1108,7 +1054,7 @@
         "primaryURL": "https://learn.microsoft.com/credentials/certifications/exams/mb-330/"
       },
       {
-        "portalName": "MB-330 Study Guide",
+        "portalName": "MB-330 Microsoft Dynamics 365 Supply Chain Management Functional Consultant Study Guide",
         "primaryURL": "https://learn.microsoft.com/credentials/certifications/resources/study-guides/mb-330",
       	"secondaryURLs": [
           {
@@ -1123,7 +1069,35 @@
       }
     ]
    },
-
+{
+    "groupName": "Business Applications - Microsoft Certified: Dynamics 365 Customer Experience Analyst Associate",
+    "portals": [
+       {
+        "portalName": "Microsoft Certified: Dynamics 365 Customer Experience Analyst Associate",
+        "primaryURL": "https://learn.microsoft.com/credentials/certifications/",
+	"note": "Coming September 2024"
+      },
+      {
+        "portalName": "MB-???: Microsoft Dynamics 365 Customer Experience Analyst Associate Exam",
+        "primaryURL": "https://learn.microsoft.com/credentials/certifications/exams/",
+	"note": "Coming September 2024"
+      },
+      {
+        "portalName": "MB-??? Microsoft Dynamics 365 Customer Experience Analyst Associate Study Guide",
+        "primaryURL": "https://learn.microsoft.com/credentials/certifications/resources/study-guides/",
+      	"secondaryURLs": [
+          {
+            "icon": "aka.ms",
+            "url": "https://aka.ms/mb???-StudyGuide"
+          }
+        ]
+      },
+        {
+        "portalName": "MB-???: Microsoft Dynamics 365 Customer Experience Analyst Associate Course",
+        "primaryURL": "https://learn.microsoft.com/training/courses/"
+      }
+    ]
+   },
 {
     "groupName": "Business Applications - Microsoft Certified: Dynamics 365 Finance Functional Consultant Associate",
     "portals": [
@@ -1295,11 +1269,13 @@
     "portals": [
        {
         "portalName": "Microsoft Certified: Dynamics 365 Customer Insights (Journeys) Functional Consultant Associate",
-        "primaryURL": "https://learn.microsoft.com/credentials/certifications/d365-customer-insights-journeys-functional-consultant/"
+        "primaryURL": "https://learn.microsoft.com/credentials/certifications/d365-customer-insights-journeys-functional-consultant/",
+	"note": "Retiring November 30, 2024"
       },
       {
         "portalName": "MB-220: Microsoft Dynamics 365 Customer Insights (Journeys) Functional Consultant Exam",
-        "primaryURL": "https://learn.microsoft.com/credentials/certifications/exams/mb-220/"
+        "primaryURL": "https://learn.microsoft.com/credentials/certifications/exams/mb-220/",
+	"note": "Retiring November 30, 2024"
       },
       {
         "portalName": "MB-220 Study Guide",
@@ -1313,7 +1289,8 @@
       },
         {
         "portalName": "MB-220: Microsoft Dynamics 365 Customer Insights (Journeys) Functional Consultant Course",
-        "primaryURL": "https://learn.microsoft.com/training/courses/mb-220t00"
+        "primaryURL": "https://learn.microsoft.com/training/courses/mb-220t00",
+	"note": "Retiring November 30, 2024"
       }
     ]
    },
@@ -1323,11 +1300,13 @@
     "portals": [
        {
         "portalName": "Microsoft Certified: Dynamics 365 Customer Insights (Data) Specialty",
-        "primaryURL": "https://learn.microsoft.com/credentials/certifications/d365-customer-insights-data-specialty/"
+        "primaryURL": "https://learn.microsoft.com/credentials/certifications/d365-customer-insights-data-specialty/",
+	"note": "Retiring November 30, 2024"
       },
       {
         "portalName": "MB-260: Microsoft Dynamics 365 Customer Insights (Data) Specialist Exam",
-        "primaryURL": "https://learn.microsoft.com/credentials/certifications/exams/mb-260/"
+        "primaryURL": "https://learn.microsoft.com/credentials/certifications/exams/mb-260/",
+	"note": "Retiring November 30, 2024"
       },
       {
         "portalName": "MB-260 Study Guide",
@@ -1341,12 +1320,13 @@
       },
         {
         "portalName": "MB-260: Microsoft Dynamics 365 Customer Insights (Data) Specialist Course",
-        "primaryURL": "https://learn.microsoft.com/training/courses/mb-260t00"
+        "primaryURL": "https://learn.microsoft.com/training/courses/mb-260t00",
+	"note": "Retiring November 30, 2024"
       }
     ]
    }, 
     {
-    "groupName": "Security - Microsoft Certified: Security, Compliance, and Identity Fundamentals",
+"groupName": "Security - Microsoft Certified: Security, Compliance, and Identity Fundamentals",
     "portals": [
        {
         "portalName": "Microsoft Certified: Security, Compliance, and Identity Fundamentals",
@@ -1376,7 +1356,7 @@
     "groupName": "Security - Microsoft Certified: Azure Security Engineer Associate",
     "portals": [
        {
-        "portalName": "Microsoft Certified: Security, Compliance, and Identity Fundamentals",
+        "portalName": "Microsoft Certified: Azure Security Engineer Associate",
         "primaryURL": "https://learn.microsoft.com/credentials/certifications/azure-security-engineer"
       },
       {
@@ -1430,7 +1410,7 @@
     "groupName": "Security - Microsoft Certified: Security Operations Analyst Associate",
     "portals": [
        {
-        "portalName": "Microsoft Certified: Cybersecurity Architect Expert",
+        "portalName": "Microsoft Certified: Security Operations Analyst Associate",
         "primaryURL": "https://learn.microsoft.com/credentials/certifications/security-operations-analyst"
       },
       {

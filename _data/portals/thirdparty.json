@@ -43,6 +43,10 @@
         "primaryURL": "https://m365internals.com"
       },
       {
+        "portalName": "Entra Mind Maps",
+        "primaryURL": "https://entra.news/p/entra-mind-maps"
+      },
+      {
         "portalName": "Get Security Done",
         "primaryURL": "https://dcaddick.github.io/gsd_public/",
         "note": "Dave Caddick",
@@ -52,6 +56,14 @@
             "url": "https://aka.ms/GSD"
           }
         ]
+      },
+      {
+        "portalName": "Group Policy Administrative Templates Catalog",
+        "primaryURL": "https://admx.help/"
+      },
+       {
+        "portalName": "Group Policy Search",
+        "primaryURL": "https://gpsearch.azurewebsites.net/"
       },
       {
         "portalName": "IntuneMaps",
