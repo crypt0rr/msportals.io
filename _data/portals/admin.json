@@ -31,26 +31,11 @@
       },
       {
         "portalName": "Exchange Admin Center (EAC)",
-        "primaryURL": "https://admin.exchange.microsoft.com",
-        "note": "New"
-      },
-      {
-        "portalName": "Exchange Admin Center (EAC)",
-        "primaryURL": "https://outlook.office365.com/ecp/",
-        "note": "Old"
-      },
-      {
-        "portalName": "Kaizala Management Portal",
-        "primaryURL": "https://manage.kaiza.la/"
-      },
-      {
-        "portalName": "Microsoft Purview",
-        "primaryURL": "https://compliance.microsoft.com",
-        "note": "Microsoft 365 Compliance",
+        "primaryURL": "https://admin.cloud.microsoft/exchange#/",
         "secondaryURLs": [
           {
-            "icon": "B2B",
-            "url": "https://compliance.microsoft.com/homepage?tid={tenant_id}"
+            "icon": "Old 🔗",
+            "url": "https://admin.exchange.microsoft.com"
           }
         ]
       },
@@ -122,13 +107,13 @@
       },
       {
         "portalName": "Microsoft Purview",
-        "primaryURL": "https://web.purview.azure.com/",
-        "note": "Azure and Fabric Governance"
-      },
-      {
-        "portalName": "Microsoft Purview",
         "primaryURL": "https://purview.microsoft.com/",
-        "note": "Preview Azure and Fabric Governance"
+        "secondaryURLs": [
+          {
+            "icon": "B2B",
+            "url": "https://purview.microsoft.com/homepage?tid={tenant_id}"
+          }
+        ]
       },
       {
         "portalName": "Microsoft Teams Admin Center",
@@ -223,8 +208,8 @@
         "primaryURL": "https://www.yammer.com/office365/admin"
       },
       {
-        "portalName": "Migrate Stream (Classic) to Stream (on SharePoint)",
-        "primaryURL": "https://admin.microsoft.com/#/featureexplorer/migration/StreamMigration"
+        "portalName": "Kaizala Management Portal",
+        "primaryURL": "https://manage.kaiza.la/"
       },
       {
         "portalName": "My Applications (My Apps)",
@@ -243,7 +228,7 @@
     ]
   },
   {
-    "groupName": "Azure IT Admin Portals",
+    "groupName": "Azure Admin Portals",
     "portals": [
       {
         "portalName": "Microsoft Azure Portal",
@@ -271,9 +256,13 @@
         "note": "Preview"
       },
       {
-        "portalName": "Microsoft Entra Admin Center (Formerly Azure AD Admin Center)",
+        "portalName": "Azure All Services",
+        "primaryURL": "https://portal.azure.com/#allservices"
+      },
+      {
+        "portalName": "Microsoft Entra Admin Center",
         "primaryURL": "https://entra.microsoft.com",
-        "note": "Identity Management",
+        "note": "Identity Management - Formerly Azure AD Admin Center",
         "secondaryURLs": [
           {
             "icon": "aka.ms",
@@ -314,9 +303,15 @@
         "primaryURL": "https://nonprofit.microsoft.com"
       },
       {
+        "portalName": "Microsoft Purview",
+        "primaryURL": "https://web.purview.azure.com/",
+        "note": "Azure and Fabric Governance"
+      },
+      {
         "portalName": "Azure Resource Explorer",
         "primaryURL": "https://resources.azure.com"
       },
+
       {
         "portalName": "Azure Resource Explorer",
         "primaryURL": "https://resources.azure.com/raw",
@@ -332,12 +327,12 @@
     "groupName": "Azure IT Admin Portals - Sub Portal Links",
     "portals": [
       {
-        "portalName": "Azure Authentication methods",
-        "primaryURL": "https://aad.portal.azure.com/#blade/Microsoft_AAD_IAM/AuthenticationMethodsMenuBlade/AdminAuthMethods/"
-      },
-      {
         "portalName": "Azure Backup Center",
         "primaryURL": "https://portal.azure.com/#blade/Microsoft_Azure_DataProtection/BackupCenterMenuBlade/overview"
+      },
+      {
+        "portalName": "Azure Monitor",
+        "primaryURL": "https://portal.azure.com/#view/Microsoft_Azure_Monitoring/AzureMonitoringBrowseBlade/~/overview"
       },
       {
         "portalName": "Privileged Identity Management",
@@ -350,12 +345,17 @@
         ]
       },
       {
-        "portalName": "Desktop Analytics Portal",
-        "primaryURL": "https://devicemanagement.portal.azure.com/#blade/Microsoft_M365_ManageClient/ManageClientFrameBlade"
-      },
-      {
         "portalName": "Azure Sentinel",
         "primaryURL": "https://portal.azure.com/#blade/Microsoft_Azure_Security_Insights/WorkspaceSelectorBlade"
+      },
+      {
+        "portalName": "Azure Virtual Desktop",
+        "primaryURL": "https://portal.azure.com/#view/Microsoft_Azure_WVD/WvdManagerMenuBlade/~/overview",
+        "note": "AVD"
+      },
+      {
+        "portalName": "Azure Update Manager",
+        "primaryURL": "https://portal.azure.com/#view/Microsoft_Azure_Automation/UpdateCenterMenuBlade/~/gettingstarted"
       },
       {
         "portalName": "Azure Universal Print",
@@ -459,22 +459,14 @@
         "primaryURL": "https://businessaccount.microsoft.com"
       },
       {
-        "portalName": "Volume Licensing Service Center",
-        "primaryURL": "https://www.microsoft.com/Licensing/servicecenter/"
+        "portalName": "Volume Licensing Service Center (VLSC)",
+        "primaryURL": "https://admin.microsoft.com/adminportal/home#/subscriptions/vlnew"
       }
     ]
   },
   {
     "groupName": "Microsoft Defender / Security IT Admin Portals",
     "portals": [
-      {
-        "portalName": "Microsoft Security Copilot",
-        "primaryURL": "https://securitycopilot.microsoft.com/"
-      },
-      {
-        "portalName": "Microsoft Defender Threat Intelligence",
-        "primaryURL": "https://ti.defender.microsoft.com/"
-      },
       {
         "portalName": "Microsoft 365 Defender",
         "primaryURL": "https://security.microsoft.com",
@@ -489,6 +481,18 @@
           }
         ],
         "note": "Previously Microsoft 365 security"
+      },
+      {
+        "portalName": "Microsoft Defender Multi-tenant",
+        "primaryURL": "https://mto.security.microsoft.com/"
+      },
+      {
+        "portalName": "Microsoft Security Copilot",
+        "primaryURL": "https://securitycopilot.microsoft.com/"
+      },
+      {
+        "portalName": "Microsoft Defender Threat Intelligence",
+        "primaryURL": "https://security.microsoft.com/intel-explorer"
       },
       {
         "portalName": "Microsoft Defender for Cloud Apps",
@@ -528,8 +532,7 @@
       },
       {
         "portalName": "Microsoft Defender ATP Testground",
-        "primaryURL": "https://demo.wd.microsoft.com/",
-        "note": "Being deprecated 09/30/2022"
+        "primaryURL": "https://demo.wd.microsoft.com/"
       },
       {
         "portalName": "Attack simulation training",
@@ -539,8 +542,7 @@
             "icon": "aka.ms",
             "url": "https://aka.ms/AttackSim"
           }
-        ],
-        "note": "sub-portal"
+        ]
       },
       {
         "portalName": "Microsoft Defender for Cloud (MDC)",
@@ -609,6 +611,10 @@
   {
     "groupName": "Developer Portals",
     "portals": [
+      {
+        "portalName": "Azure IoT Central",
+        "primaryURL": "https://apps.azureiotcentral.com/"
+      },
       {
         "portalName": "Copilot Studio",
         "primaryURL": "https://copilotstudio.microsoft.com/"
@@ -789,6 +795,10 @@
       {
         "portalName": "Microsoft Partner Resources",
         "primaryURL": "https://partner.microsoft.com/en-US/partnership/azure-for-partners"
+      },
+      {
+        "portalName": "FastTrack Partner Community Portal",
+        "primaryURL": "https://fpc.microsoft.com/"
       },
       {
         "portalName": "Dynamics 365 for Partners",
@@ -976,8 +986,22 @@
       "primaryURL": "https://lighthouse.microsoft.com/"
     },
     {
+        "portalName": "Migrate Stream (Classic) to Stream (on SharePoint)",
+        "primaryURL": "https://admin.microsoft.com/#/featureexplorer/migration/StreamMigration"
+      },
+    {
       "portalName": "Microsoft 365 Message Center Archive",
       "primaryURL": "https://mc.merill.net/"
+    },
+    {
+      "portalName": "Microsoft 365 URLs and IP address ranges",
+      "primaryURL": "https://learn.microsoft.com/microsoft-365/enterprise/urls-and-ip-address-ranges",
+      "secondaryURLs": [
+        {
+          "icon": "aka.ms",
+          "url": "https://aka.ms/o365ip"
+        }
+      ]
     },
     {
       "portalName": "Microsoft Adoption",
@@ -1046,6 +1070,10 @@
           "url": "https://aka.ms/solorigate"
         }
       ]
+    },
+        {
+      "portalName": "Microsoft Setup",
+      "primaryURL": "https://setup.cloud.microsoft/"
     },
     {
       "portalName": "Microsoft Startups",
