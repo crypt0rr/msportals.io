@@ -1,0 +1,137 @@
+[
+  {
+    "groupName": "Main Microsoft Education Links",
+    "portals": [
+         {
+        "portalName": "Microsoft Education",
+        "primaryURL": "https://www.microsoft.com/education"
+         },
+          {
+        "portalName": "Microsoft 365 Education Licensing Comparison Table",
+        "primaryURL": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/microsoft/final/en-us/microsoft-product-and-services/microsoft-education/downloadables/Modern_Work_Plan_Comparison-Education.pdf",
+        "note":"PDF"
+         },
+        {
+        "portalName": "Microsoft Learn Educator Center",
+        "primaryURL": "https://learn.microsoft.com/training/educator-center/?source=mec"
+         },
+          {
+        "portalName": "Microsoft Learn Educator Center",
+        "primaryURL": "https://learn.microsoft.com/training/educator-center/?source=mec"
+         },
+        {
+        "portalName": "Microsoft Education Support",
+        "primaryURL": "https://support.microsoft.com/home/contact/education"
+         },
+        {
+        "portalName": "Microsoft Education on X",
+        "primaryURL": "https://x.com/MicrosoftEDU"
+         },
+              {
+        "portalName": "Microsoft Education on YouTube",
+        "primaryURL": "https://www.youtube.com/channel/UCG_FV4WjnZqtm6sux2g069Q"
+         }
+    ]
+  },
+   {
+    "groupName": "Microsoft 365 Education Links",
+    "portals": [
+        {
+        "portalName": "Microsoft 365 Education",
+        "primaryURL": "https://www.microsoft.com/education/products/microsoft-365"
+         },
+        {
+        "portalName": "Microsoft Intune for Education",
+        "primaryURL": "https://intuneeducation.portal.azure.com"
+      },
+        {
+        "portalName": "School Data Sync",
+        "primaryURL": "https://sds.edu.cloud.microsoft/"
+         }, 
+        {
+        "portalName": "Reading Coach",
+        "primaryURL": "https://coach.microsoft.com/"
+         }
+    ]
+     },
+     {
+    "groupName": "Azure Education Links",
+    "portals": [
+      {
+        "portalName": "Azure Education Hub",
+        "primaryURL": "https://azureforeducation.microsoft.com/"
+         }, 
+            {
+        "portalName": "Azure Education Hub Software/Keys",
+        "primaryURL": "https://portal.azure.com/#view/Microsoft_Azure_Education/EducationMenuBlade/~/software"
+         },
+        {
+        "portalName": "Azure Dev Tools for Students Signup",
+        "primaryURL": "https://azureforeducation.microsoft.com/devtools"
+         },
+        {
+        "portalName": "Azure Dev Tools for Teaching Signup",
+        "primaryURL": "https://signup.azure.com/studentverification?offerType=4"
+         },
+        {
+        "portalName": "Azure Dev Tools for Teaching Management Portal",
+        "primaryURL": "https://azureforeducation.microsoft.com/account/Subscriptions"
+         },
+        {
+        "portalName": "Azure Dev Tools for Teaching Support",
+        "primaryURL": "https://azureforeducation.microsoft.com/institutions/Contact"
+         },
+        {
+        "portalName": "Azure Students Sign Up",
+        "primaryURL": "https://azure.microsoft.com/free/students/"
+         },
+        {
+        "portalName": "Azure Sponsorships",
+        "primaryURL": "https://www.microsoftazuresponsorships.com/"
+         }
+    ]
+     },
+      {
+    "groupName": "General Microsoft Education Links",
+    "portals": [
+        {
+        "portalName": "Hacking STEM",
+        "primaryURL": "https://learn.microsoft.com/en-us/training/educator-center/instructor-materials/hacking-stem"
+         },
+        {
+        "portalName": "Minecraft Education",
+        "primaryURL": "https://education.minecraft.net/"
+         },
+        {
+        "portalName": "Minecraft Education Download",
+        "primaryURL": "https://education.minecraft.net/en-us/get-started/download#"
+         },
+        {
+        "portalName": "Minecraft Education Australia",
+        "primaryURL": "https://education.minecraft.net/en-us/australia"
+         },
+         {
+        "portalName": "AI Skills for Educators",
+        "primaryURL": "https://www.microsoft.com/en-us/corporate-responsibility/digital-skills/ai-skills-for-educators"
+         },
+        {
+        "portalName": "MakeCode Arcade",
+        "primaryURL": "https://arcade.makecode.com/",
+                "secondaryURLs": [
+          {
+            "icon": "Start Page",
+            "url": "https://www.microsoft.com/en-au/makecode"
+          }
+        ]
+         },
+        {
+        "portalName": "Microsoft Imagine Cup Junior In-a-Box",
+        "primaryURL": "https://imaginecup.microsoft.com/junior"
+         },
+        {
+        "portalName": "Unlocked - Innovation Stories",
+        "primaryURL": "https://unlocked.microsoft.com"
+         }
+       ]
+  }
+]

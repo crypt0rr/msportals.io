@@ -15,15 +15,10 @@
             "url": "https://admin.microsoft.com"
           },
           {
-            "icon": "Alt",
-            "url": "https://portal.office365.com"
-          },
-          {
-            "icon": "Alt",
-            "url": "https://portal.microsoft.com"
+            "icon": "B2B",
+            "url": "https://admin.microsoft.com/Partner/BeginClientSession.aspx?CTID={tenant_id}&CSDEST=o365admincenter"
           }
         ]
-        
       },
       {
         "portalName": "Microsoft 365 Apps Admin Center",
@@ -40,23 +35,6 @@
         ]
       },
       {
-        "portalName": "Microsoft 365 network connectivity test",
-        "primaryURL": "https://connectivity.office.com"
-      },
-      {
-        "portalName": "Microsoft 365 Network Insights",
-        "primaryURL": "https://portal.office.com/adminportal/home#/networkperformance",
-        "note": "Preview"
-      },
-      {
-        "portalName": "Microsoft Call Quality Dashboard (Teams)",
-        "primaryURL": "https://cqd.teams.microsoft.com"
-      },
-      {
-        "portalName": "Microsoft Call Quality Dashboard (Lync)",
-        "primaryURL": "https://cqd.lync.com"
-      },
-      {
         "portalName": "Microsoft Intune Admin Center",
         "primaryURL": "https://intune.microsoft.com",
         "secondaryURLs": [
@@ -69,37 +47,19 @@
             "url": "https://endpoint.microsoft.com/"
           },
           {
+            "icon": "Alt 🔗",
+            "url": "https://devicemanagement.portal.azure.com"
+          },
+          {
+            "icon": "RC 🔗",
+            "url": "https://rc-devicemanagement.portal.azure.com"
+          },
+          {
             "icon": "B2B",
             "url": "https://intune.microsoft.com/{tenant_id}"
           }
         ],
         "note": "Endpoint Manager"
-      },
-      {
-        "portalName": "Microsoft Endpoint Manager Admin Console",
-        "primaryURL": "https://rc-devicemanagement.portal.azure.com",
-        "note": "Release Candidate"
-      },
-      {
-        "portalName": "Microsoft Endpoint Manager Admin Console",
-        "primaryURL": "https://devicemanagement.portal.azure.com",
-        "note": "Old"
-      },
-      {
-        "portalName": "Microsoft Intune for Education",
-        "primaryURL": "https://intuneeducation.portal.azure.com"
-      },
-      {
-        "portalName": "Microsoft Online",
-        "primaryURL": "https://portal.microsoftonline.com/IWDefault.aspx"
-      },
-      {
-        "portalName": "Microsoft Store for Business",
-        "primaryURL": "https://businessstore.microsoft.com"
-      },
-      {
-        "portalName": "Microsoft Store for Education",
-        "primaryURL": "https://educationstore.microsoft.com"
       },
       {
         "portalName": "Microsoft Stream Admin Center",
@@ -136,16 +96,6 @@
           {
             "icon": "aka.ms",
             "url": "https://aka.ms/mystaff"
-          }
-        ]
-      },
-      {
-        "portalName": "Power Apps ISV Studio",
-        "primaryURL": "https://isvstudio.powerapps.com/home",
-        "secondaryURLs": [
-          {
-            "icon": "aka.ms",
-            "url": "https://aka.ms/ISVStudio"
           }
         ]
       },
@@ -195,21 +145,8 @@
         "primaryURL": "https://admin.microsoft.com/sharepoint"
       },
       {
-        "portalName": "SharePoint look book",
-        "primaryURL": "https://lookbook.microsoft.com/"
-      },
-      {
-        "portalName": "Skype for Business admin center",
-        "primaryURL": "https://webdir2a.online.lync.com/LSCP",
-        "note": "Deprecated"
-      },
-      {
         "portalName": "Yammer Admin",
         "primaryURL": "https://www.yammer.com/office365/admin"
-      },
-      {
-        "portalName": "Kaizala Management Portal",
-        "primaryURL": "https://manage.kaiza.la/"
       },
       {
         "portalName": "My Applications (My Apps)",
@@ -365,15 +302,23 @@
     ]
   },
   {
-    "groupName": "Azure AI / ML Portals",
+    "groupName": "AI Portals",
     "portals": [
+    {
+        "portalName": "Microsoft AI",
+        "primaryURL": "https://microsoft.ai/"
+    }, 
+    {
+        "portalName": "Microsoft Copilot",
+        "primaryURL": "https://copilot.microsoft.com/"
+    },
+    {
+        "portalName": "Azure AI Foundry",
+        "primaryURL": "https://ai.azure.com/"
+    },
     {
         "portalName": "Azure AI Content Safety Studio",
         "primaryURL": "https://contentsafety.cognitive.azure.com/"
-    },
-    {
-        "portalName": "Azure AI Studio",
-        "primaryURL": "https://ai.azure.com"
     },
     {
         "portalName": "Azure Machine Learning Studio",
@@ -404,17 +349,8 @@
         "primaryURL": "https://www.luis.ai/"
     },
     {
-        "portalName": "QnA Maker Portal",
-        "primaryURL": "https://www.qnamaker.ai/"
-    },
-    {
         "portalName": "Speech Studio",
         "primaryURL": "https://speech.microsoft.com/"
-    },
-    {
-        "portalName": "Vision Studio",
-        "primaryURL": "https://preview.vision.azure.com/",
-        "note": "Preview"
     },
     {
         "portalName": "Video Indexer",
@@ -444,7 +380,7 @@
       },
       {
         "portalName": "Microsoft License Advisor",
-        "primaryURL": "https://mla.microsoft.com"
+        "primaryURL": "https://mla-uat.microsoft.com"
       },
       {
         "portalName": "Microsoft Services Hub",
@@ -517,7 +453,7 @@
       },
       {
         "portalName": "Microsoft Defender for Identity (MDI)",
-        "primaryURL": "https://portal.atp.azure.com",
+        "primaryURL": "https://security.microsoft.com/",
         "secondaryURLs": [
           {
             "icon": "aka.ms",
@@ -560,10 +496,6 @@
       {
         "portalName": "Multi-factor authentication (MFA)",
         "primaryURL": "https://account.activedirectory.windowsazure.com/usermanagement/multifactorverification.aspx"
-      },
-      {
-        "portalName": "CloudKnox Permissions Management",
-        "primaryURL": "https://c1.app.mciem.cloudknox.io"
       },
       {
         "portalName": "Microsoft AccountGuard",
@@ -688,11 +620,6 @@
         "primaryURL": "https://jwt.ms/"
       },
       {
-        "portalName": "Message Card Playground",
-        "primaryURL": "https://messagecardplayground.azurewebsites.net/",
-        "note": "New Tool - Actionable Message Designer"
-      },
-      {
         "portalName": "Microsoft Graph Toolkit",
         "primaryURL": "https://mgt.dev/"
       },
@@ -778,7 +705,24 @@
       {
         "portalName": "Twitter - Microsoft 365 Status Page",
         "primaryURL": "https://twitter.com/MSFT365Status"
-      }
+      },
+      {
+        "portalName": "Microsoft 365 network connectivity test",
+        "primaryURL": "https://connectivity.office.com"
+      },
+      {
+        "portalName": "Microsoft 365 Network Insights",
+        "primaryURL": "https://portal.office.com/adminportal/home#/networkperformance",
+        "note": "Preview"
+      },
+      {
+        "portalName": "Microsoft Call Quality Dashboard (Teams)",
+        "primaryURL": "https://cqd.teams.microsoft.com"
+      },
+      {
+        "portalName": "Microsoft Call Quality Dashboard (Lync)",
+        "primaryURL": "https://cqd.lync.com"
+      },
     ]
   },
   {
@@ -942,7 +886,11 @@
       "portalName": "Azure Pass - Activate Azure subscription using Azure Pass Codes",
       "primaryURL": "https://www.microsoftazurepass.com/"
     },
-     {
+    {
+      "portalName": "Azure Sponsorships - Billing and Usage Info",
+      "primaryURL": "https://www.microsoftazuresponsorships.com/"
+    },
+    {
       "portalName": "Customer Digital Experiences",
       "primaryURL": "https://cdx.transform.microsoft.com",
       "note": "Previously Demos.Microsoft.com"
@@ -1012,6 +960,10 @@
       "primaryURL": "https://learn.microsoft.com/en-gb/assessments/"
     },
     {
+      "portalName": "Microsoft Blogs",
+      "primaryURL": "https://blogs.microsoft.com/"
+    },
+    {
       "portalName": "Microsoft Community",
       "primaryURL": "https://answers.microsoft.com"
     },
@@ -1059,7 +1011,7 @@
     },
     {
       "portalName": "Microsoft Reseller Profile Registration Portal",
-      "primaryURL": "https://reselleruat.microsoftcrmportals.com/"
+      "primaryURL": "https://reseller.microsoftcrmportals.com/"
     },
     {
       "portalName": "Microsoft Security Response Center",
@@ -1106,10 +1058,6 @@
       ]
     },
     {
-      "portalName": "Outlook Oauth Sandbox",
-      "primaryURL": "https://myadevcenter.outlook.office365.com/"
-    },
-    {
       "portalName": "Outlook.com Smart Network Data Service",
       "primaryURL": "https://sendersupport.olc.protection.outlook.com/snds/index.aspx"
     },
@@ -1134,6 +1082,10 @@
           "url": "https://aka.ms/VideoHub"
         }
       ]
+    },
+    {
+      "portalName": "Volume Licensing Central",
+      "primaryURL": "https://vlcentral.microsoft.com/"
     },
     {
       "portalName": "Windows 365 Subscription URL",

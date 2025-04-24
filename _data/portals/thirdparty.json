@@ -19,6 +19,10 @@
         "primaryURL": "https://school.apple.com"
       },
       {
+        "portalName": "ASD's Blueprint for Secure Cloud",
+        "primaryURL": "https://blueprint.asd.gov.au/"
+      },
+      {
         "portalName": "Azure Charts",
         "primaryURL": "https://azurecharts.com/"
       },
@@ -58,8 +62,8 @@
         ]
       },
       {
-        "portalName": "Group Policy Administrative Templates Catalog",
-        "primaryURL": "https://admx.help/"
+        "portalName": "ADMX Viewer",
+        "primaryURL": "https://gpedit.tplant.com.au/"
       },
        {
         "portalName": "Group Policy Search",
@@ -83,13 +87,7 @@
       },
       {
         "portalName": "Microsoft 365 Maps - Licensing Diagrams",
-        "primaryURL": "https://m365maps.com/",
-        "secondaryURLs": [
-          {
-            "icon": "GitHub",
-            "url": "https://github.com/AaronDinnage/Licensing/"
-          }
-        ]
+        "primaryURL": "https://m365maps.com/"
       },
       {
         "portalName": "Microsoft Acronyms Glossary",

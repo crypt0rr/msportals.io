@@ -50,10 +50,6 @@
         "note": "Requires free registration"
       },
       {
-        "portalName": "Microsoft Azure Connected Learning Experience",
-        "primaryURL": "https://clx.cloudevents.ai/events/39366311-ad15-4b90-9364-0252213842fa"
-      },
-      {
         "portalName": "Typespec Azure API",
         "primaryURL": "https://azure.github.io/typespec-azure/"
       }
@@ -986,36 +982,6 @@
     ]
    },
 {
-    "groupName": "Business Applications - Microsoft Certified: Dynamics 365 Sales Functional Consultant Associate",
-    "portals": [
-       {
-        "portalName": "Microsoft Certified: Dynamics 365 Sales Functional Consultant Associate",
-        "primaryURL": "https://learn.microsoft.com/credentials/certifications/d365-functional-consultant-sales/",
-	"note": "Retiring November 30, 2024"
-      },
-      {
-        "portalName": "MB-210: Microsoft Dynamics 365 Sales Functional Consultant Exam",
-        "primaryURL": "https://learn.microsoft.com/credentials/certifications/exams/mb-210/",
-	"note": "Retiring November 30, 2024"
-      },
-      {
-        "portalName": "MB-210 Study Guide",
-        "primaryURL": "https://learn.microsoft.com/credentials/certifications/resources/study-guides/mb-210",
-      	"secondaryURLs": [
-          {
-            "icon": "aka.ms",
-            "url": "https://aka.ms/mb210-StudyGuide"
-          }
-        ]
-      },
-        {
-        "portalName": "MB-210: Microsoft Dynamics 365 Sales Functional Consultant Course",
-        "primaryURL": "https://learn.microsoft.com/training/courses/mb-210t00",
-	"note": "Retiring November 30, 2024"
-      }
-    ]
-   },
-{
     "groupName": "Business Applications - Microsoft Certified: Dynamics 365 Field Service Functional Consultant Associate",
     "portals": [
        {
@@ -1493,7 +1459,8 @@
     "portals": [
        {
         "portalName": "Microsoft Certified: Information Protection and Compliance Administrator Associate",
-        "primaryURL": "https://learn.microsoft.com/credentials/certifications/information-protection-and-compliance-administrator/"
+        "primaryURL": "https://learn.microsoft.com/credentials/certifications/information-protection-and-compliance-administrator/",
+	"note": "Retiring May 31st 2025"
       },
       {
         "portalName": "SC-400: Administering Information Protection and Compliance in Microsoft 365 Exam",
@@ -1515,6 +1482,33 @@
       }
     ]
    }, 
+	 {
+    "groupName": "Security - Microsoft Certified: Information Security Administrator",
+    "portals": [
+       {
+        "portalName": "Microsoft Certified: Information Security Administrator",
+        "primaryURL": "https://learn.microsoft.com/en-gb/credentials/certifications/information-security-administrator/"
+      },
+      {
+        "portalName": "SC-401: Administering Information Security in Microsoft 365 (beta)",
+        "primaryURL": "https://learn.microsoft.com/en-gb/credentials/certifications/exams/sc-401//"
+      },
+      {
+        "portalName": "SC-401 Study Guide",
+        "primaryURL": "https://learn.microsoft.com/credentials/certifications/resources/study-guides/sc-401",
+      	"secondaryURLs": [
+          {
+            "icon": "aka.ms",
+            "url": "https://aka.ms/sc401-StudyGuide"
+          }
+        ]
+      },
+        {
+        "portalName": "SC-401: Administering Information Security in Microsoft 365 Course",
+        "primaryURL": "https://learn.microsoft.com/training/courses/sc-401t00"
+      }
+    ]
+   },
     {
     "groupName": "Business User - Microsoft Office Specialist: Word Associate (Microsoft 365 Apps)",
     "portals": [
@@ -1571,13 +1565,11 @@
     "portals": [
        {
         "portalName": "Microsoft Office Specialist: Outlook Expert (Microsoft 365 Apps)",
-        "primaryURL": "https://learn.microsoft.com/en-us/credentials/certifications/mos-powerpoint-associate-m365-apps/",
-        "note": "Coming Soon"
+        "primaryURL": "https://learn.microsoft.com/en-us/credentials/certifications/mos-outlook-2019/"
       },
       {
         "portalName": "MO-410: Microsoft Outlook (Microsoft 365 Apps) Exam",
-        "primaryURL": "https://learn.microsoft.com/en-us/credentials/certifications/exams/mo-410/",
-        "note": "Coming Soon"
+        "primaryURL": "https://learn.microsoft.com/en-us/credentials/certifications/exams/mo-410/"
       },
       {
         "portalName": "MO-410 Exam Skills Outline",

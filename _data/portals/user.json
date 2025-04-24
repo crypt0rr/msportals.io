@@ -238,7 +238,7 @@
             },
             {
                 "portalName": "Whiteboard",
-                "primaryURL": "https://whiteboard.microsoft.com"
+                "primaryURL": "https://whiteboard.cloud.microsoft"
             },
             {
                 "portalName": "Word",
@@ -249,10 +249,6 @@
                         "url": "https://www.office.com/launch/word"
                     }
                 ]
-            },
-            {
-                "portalName": "Yammer",
-                "primaryURL": "https://www.yammer.com"
             }
         ]
     },
@@ -265,8 +261,8 @@
                 "note": "Was Bing Chat Enterprise"
             },
             {
-                "portalName": "Copilot Lab",
-                "primaryURL": "https://copilot.cloud.microsoft/"
+                "portalName": "Copilot Labs",
+                "primaryURL": "https://copilotlabs.microsoft.com"
             },
             {
                 "portalName": "Microsoft 365 Copilot",

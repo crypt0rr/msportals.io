@@ -20,6 +20,11 @@
         "primaryURL": "https://account.activedirectory.windowsazure.us",
         "note": ""
       },
+       {
+        "portalName": "Microsoft Purview Admin Center",
+        "primaryURL": "https://purview.microsoft.us",
+        "note": ""
+      },
       {
         "portalName": "Azure Virtual Desktop",
         "primaryURL": "https://rdweb.wvd.azure.us/",
@@ -37,7 +42,7 @@
       },
       {
         "portalName": "Microsoft 365 Security",
-        "primaryURL": "https://security.microsoft.us/homepage",
+        "primaryURL": "https://security.microsoft.com/homepage",
         "note": "GCC"
       },
       {
@@ -51,13 +56,13 @@
         "note": "GCC"
       },
       {
-        "portalName": "Microsoft Endpoint Manager Government admin center",
-        "primaryURL": "https://endpoint.microsoft.us/#home",
+        "portalName": "Microsoft Intune Government admin center",
+        "primaryURL": "https://intune.microsoft.us/#home",
         "note": "GCC"
       },
       {
         "portalName": "Microsoft Defender for Identity",
-        "primaryURL": "https://portal.atp.azure.us/",
+        "primaryURL": "https://security.microsoft.com",
         "note": "GCC"
       },
       {
@@ -101,6 +106,11 @@
         "note": "GCC High"
       },
       {
+        "portalName": "Security",
+        "primaryURL": "https://security.microsoft.us",
+        "note": "GCC High"
+      },
+      {
         "portalName": "Power Apps",
         "primaryURL": "https://high.admin.powerplatform.microsoft.us/environments?l=en-US",
         "note": "GCC High"
@@ -112,7 +122,7 @@
       },
       {
         "portalName": "Exchange Admin Center",
-        "primaryURL": "https://outlook.office365.us/ecp",
+        "primaryURL": "https://admin.exchange.office365.us",
         "note": "GCC High"
       },
       {
@@ -161,6 +171,11 @@
         "note": "GCC Moderate"
       },
       {
+        "portalName": "Power BI Admin Portal",
+        "primaryURL": "https://app.powerbigov.us/admin-portal",
+        "note": "GCC Moderate"
+      },
+      {
         "portalName": "Dynamics 365 Instance Administration",
         "primaryURL": "https://port.crm9.dynamics.com/G/Instances/InstancePicker.aspx",
         "note": "GCC Moderate"
@@ -177,7 +192,7 @@
       },
       {
         "portalName": "SharePoint Online Admin Center",
-        "primaryURL": "https://portal.apps.mil/SharePointDoD",
+        "primaryURL": "https://portal.apps.mil/SharePoint",
         "secondaryURLs": [
           {
             "icon": "aka.ms",
