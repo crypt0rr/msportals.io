@@ -23,8 +23,8 @@
         "primaryURL": "https://blueprint.asd.gov.au/"
       },
       {
-        "portalName": "Azure Charts",
-        "primaryURL": "https://azurecharts.com/"
+        "portalName": "Azure Periodic Table",
+        "primaryURL": "https://www.azureperiodictable.com/"
       },
       {
         "portalName": "Azure Diagrams",
@@ -94,6 +94,10 @@
         "primaryURL": "https://tpm.ms/TLA"
       },
       {
+        "portalName": "Microsoft Certification Hub",
+        "primaryURL": "https://certs.msfthub.wiki/"
+      },
+      {
         "portalName": "Microsoft Mac Downloads",
         "primaryURL": "https://macadmins.software/"
       },
@@ -107,7 +111,7 @@
         "primaryURL": "https://jwt.ms/"
       },
       {
-        "portalName": "Microsoft WDAC Wizard",
+        "portalName": "Microsoft App Control Policy Wizard",
         "primaryURL": "https://webapp-wdac-wizard.azurewebsites.net/"
       },
       {
@@ -176,7 +180,7 @@
             {
         "portalName": "M365PSProfile",
         "primaryURL": "https://www.powershellgallery.com/packages/M365PSProfile/0.5.0",
-        "note": "Updates all M365 PowerShell Modues"
+        "note": "Updates all M365 PowerShell Modules"
       }
      ]
     }

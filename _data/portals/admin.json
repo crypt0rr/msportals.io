@@ -26,7 +26,7 @@
       },
       {
         "portalName": "Exchange Admin Center (EAC)",
-        "primaryURL": "https://admin.cloud.microsoft/exchange#/",
+        "primaryURL": "https://admin.cloud.microsoft/exchange#/homepage",
         "secondaryURLs": [
           {
             "icon": "Old 🔗",
@@ -321,6 +321,10 @@
         "primaryURL": "https://contentsafety.cognitive.azure.com/"
     },
     {
+        "portalName": "Azure AI Document Intelligence Studio",
+        "primaryURL": "https://documentintelligence.ai.azure.com/"
+    },
+    {
         "portalName": "Azure Machine Learning Studio",
         "primaryURL": "https://ml.azure.com"
     },
@@ -465,6 +469,10 @@
       {
         "portalName": "Microsoft Defender for Internet of Things (IoT)",
         "primaryURL": "https://portal.azure.com/#blade/Microsoft_Azure_IoT_Defender/IoTDefenderDashboard"
+      },
+     {
+        "portalName": "Microsoft Defender API Explorer",
+        "primaryURL": "https://security.microsoft.com/interoperability/api-explorer"
       },
       {
         "portalName": "Microsoft Defender ATP Testground",
@@ -718,11 +726,7 @@
       {
         "portalName": "Microsoft Call Quality Dashboard (Teams)",
         "primaryURL": "https://cqd.teams.microsoft.com"
-      },
-      {
-        "portalName": "Microsoft Call Quality Dashboard (Lync)",
-        "primaryURL": "https://cqd.lync.com"
-      },
+      }
     ]
   },
   {
@@ -894,6 +898,10 @@
       "portalName": "Customer Digital Experiences",
       "primaryURL": "https://cdx.transform.microsoft.com",
       "note": "Previously Demos.Microsoft.com"
+    },
+    {
+      "portalName": "Customer Voice",
+      "primaryURL": "https://customervoice.microsoft.com/"
     },
     {
       "portalName": "Deployment Guides for Microsoft 365 ",

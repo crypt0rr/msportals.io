@@ -1,0 +1,11 @@
+[
+   {
+    "groupName": "Microsoft 365 Consumer",
+    "portals": [
+        {
+        "portalName": "Defender for Web",
+        "primaryURL": "https://mydefender.microsoft.com"
+         }
+        ]
+     }
+  ]

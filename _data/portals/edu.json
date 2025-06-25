@@ -24,6 +24,10 @@
         "primaryURL": "https://support.microsoft.com/home/contact/education"
          },
         {
+        "portalName": "Microsoft Education Blog",
+        "primaryURL": "https://www.microsoft.com/en-us/education/blog/"
+         },
+        {
         "portalName": "Microsoft Education on X",
         "primaryURL": "https://x.com/MicrosoftEDU"
          },
@@ -47,13 +51,22 @@
         {
         "portalName": "School Data Sync",
         "primaryURL": "https://sds.edu.cloud.microsoft/"
+         }
+    ]
+     },
+     {
+    "groupName": "Microsoft 365 Student Education Links",
+    "portals": [
+        {
+        "portalName": "Math Solver",
+        "primaryURL": "https://math.microsoft.com/"
          }, 
         {
         "portalName": "Reading Coach",
         "primaryURL": "https://coach.microsoft.com/"
          }
-    ]
-     },
+   ]
+     },  
      {
     "groupName": "Azure Education Links",
     "portals": [
