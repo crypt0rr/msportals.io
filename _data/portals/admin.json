@@ -99,6 +99,10 @@
           }
         ]
       },
+       {
+        "portalName": "Microsoft Teams Places Space Management",
+        "primaryURL": "https://places.cloud.microsoft/places/admin/space-management"
+      },
       {
         "portalName": "Power Apps Maker Portal",
         "primaryURL": "https://make.powerapps.com"
@@ -131,10 +135,6 @@
             "url": "https://aka.ms/ppac"
           }
         ]
-      },
-      {
-        "portalName": "Power Virtual Agents Portal",
-        "primaryURL": "https://powerva.microsoft.com"
       },
       {
         "portalName": "Phone Number Service Center",
@@ -302,7 +302,7 @@
     ]
   },
   {
-    "groupName": "AI Portals",
+    "groupName": "Admin - AI Portals",
     "portals": [
     {
         "portalName": "Microsoft AI",
@@ -357,13 +357,17 @@
         "primaryURL": "https://speech.microsoft.com/"
     },
     {
+        "portalName": "Security Copilot Calculator",
+        "primaryURL": "https://securitycopilot.microsoft.com/calculator"
+    },
+    {
         "portalName": "Video Indexer",
         "primaryURL": "https://www.videoindexer.ai/"
     }
    ]
   },
   {
-    "groupName": "Microsoft Licensing/Support Portals",
+    "groupName": "Admin - Microsoft Licensing/Support Portals",
     "portals": [
       {
         "portalName": "Azure Subscriptions",
@@ -405,7 +409,7 @@
     ]
   },
   {
-    "groupName": "Microsoft Defender / Security IT Admin Portals",
+    "groupName": "Admin - Microsoft Defender / Security Portals",
     "portals": [
       {
         "portalName": "Microsoft 365 Defender",
@@ -549,7 +553,7 @@
     ]
   },
   {
-    "groupName": "Developer Portals",
+    "groupName": "Admin - Developer Portals",
     "portals": [
       {
         "portalName": "Azure IoT Central",
@@ -671,7 +675,7 @@
     ]
   },
   {
-    "groupName": "Health / Status Portals",
+    "groupName": "Admin - Health / Status Portals",
     "portals": [
       {
         "portalName": "Microsoft Service health status",
@@ -730,7 +734,7 @@
     ]
   },
   {
-    "groupName": "Microsoft Partner / MSP Portals",
+    "groupName": "Admin - Microsoft Partner / MSP Portals",
     "portals": [
       {
         "portalName": "Microsoft Partner Center",
@@ -783,7 +787,7 @@
     ]
   },
      {
-    "groupName": "Microsoft Trials",
+    "groupName": "Admin - Microsoft Trials",
     "portals": [
       {
         "portalName": "Microsoft Defender for Identity Trial -3-month",
@@ -872,7 +876,7 @@
     ]
   },
   {
-  "groupName": "Other Useful Microsoft Portals",
+  "groupName": "Admin - Other Useful Microsoft Portals",
   "portals": [
     {
       "portalName": "Azure Active Directory - Where is your data located?",

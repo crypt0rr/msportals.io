@@ -24,8 +24,16 @@
         "primaryURL": "https://support.microsoft.com/home/contact/education"
          },
         {
+        "portalName": "Microsoft Education TechCommunity",
+        "primaryURL": "https://techcommunity.microsoft.com/category/EducationSector"
+         },
+        {
         "portalName": "Microsoft Education Blog",
         "primaryURL": "https://www.microsoft.com/en-us/education/blog/"
+         },
+        {
+        "portalName": "Microsoft Educatoion Sector Blogs",
+        "primaryURL": "https://techcommunity.microsoft.com/category/educationsector"
          },
         {
         "portalName": "Microsoft Education on X",
@@ -120,6 +128,10 @@
         "primaryURL": "https://education.minecraft.net/en-us/get-started/download#"
          },
         {
+        "portalName": "Minecraft Education Support",
+        "primaryURL": "https://edusupport.minecraft.net/"
+         },
+        {
         "portalName": "Minecraft Education Australia",
         "primaryURL": "https://education.minecraft.net/en-us/australia"
          },
@@ -146,5 +158,50 @@
         "primaryURL": "https://unlocked.microsoft.com"
          }
        ]
+  },
+     {
+    "groupName": "Microsoft Learning/Training links for students/university/college (3rd Party)",
+    "portals": [
+        {
+        "portalName": "Year 13",
+        "primaryURL": "https://year13.com.au/academy",
+        "note": "Free Online Learning Tool for School Leavers"
+         },
+        {
+        "portalName": "Australia NSW Gov Institute of Applied Technology",
+        "primaryURL": "https://www.iat.nsw.edu.au/iat-digital",
+        "note": "Free Microskills Courses"
+      },
+       {
+        "portalName": "Microsoft Early In Profession",
+        "primaryURL": "https://careers.microsoft.com/v2/global/en/students",
+        "note": "Materials/Guidance for Higher Ed Graduates"
+      },
+      {
+        "portalName": "GitHub Global Campus",
+        "primaryURL": "https://docs.github.com/en/education/about-github-education/github-education-for-students/apply-to-github-education-as-a-student#applying-to-github-global-campus",
+        "note": "Free GitHub Training Materials"
+      },
+       {
+        "portalName": "Microsoft Azure for Students",
+        "primaryURL": "https://azure.microsoft.com/free/students/",
+        "note": "Free Azure Credit and Free Azure Products"
+      },
+       {
+        "portalName": "Microsoft Learn Student Ambassadors",
+        "primaryURL": "https://mvp.microsoft.com/studentambassadors",
+        "note": "Free Training & Support for Higher Education Students"
+      },
+      {
+        "portalName": "Microsoft Student Accelerator",
+        "primaryURL": "https://www.meetup.com/anz-microsoft-student-accelerator/?msockid=07ed0ed2b244679436111cb8b3be66fe",
+        "note": "Free Meetup for Australia and New Zealand"
+      },
+       {
+        "portalName": "Microsoft Learn Training",
+        "primaryURL": "https://learn.microsoft.com/training/",
+        "note": "Free Official Microsoft Learning Plans and Training "
+         }
+    ]
   }
 ]

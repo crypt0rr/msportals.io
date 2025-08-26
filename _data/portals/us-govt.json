@@ -1,6 +1,6 @@
 [
   {
-    "groupName": "Shared",
+    "groupName": "US Gov - Shared",
     "portals": [
       {
         "portalName": "Intune Web Company Portal",
@@ -33,7 +33,7 @@
     ]
   },
   {
-    "groupName": "GCC",
+    "groupName": "US Gov - GCC",
     "portals": [
       {
         "portalName": "Microsoft 365 Compliance",
@@ -78,7 +78,7 @@
     ]
   },
   {
-    "groupName": "GCC High",
+    "groupName": "US Gov - GCC High",
     "portals": [
        {
         "portalName": "Azure Portal",
@@ -98,11 +98,6 @@
       {
         "portalName": "Microsoft Azure Active Directory Portal",
         "primaryURL": "https://portal.azure.us/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/Overview",
-        "note": "GCC High"
-      },
-      {
-        "portalName": "Security & Compliance",
-        "primaryURL": "https://scc.office365.us/homepage",
         "note": "GCC High"
       },
       {
@@ -143,7 +138,7 @@
     ]
   },
   {
-    "groupName": "GCC Moderate",
+    "groupName": "US Gov - GCC Moderate",
     "portals": [
       {
         "portalName": "Power Apps Maker Portal",
@@ -183,7 +178,7 @@
     ]
   },
   {
-    "groupName": "DoD",
+    "groupName": "US Gov - DoD",
     "portals": [
       {
         "portalName": "Microsoft 365 Admin Portal",
